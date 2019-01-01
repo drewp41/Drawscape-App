@@ -1,0 +1,6 @@
+framework module Pods_DrawScape {
+  umbrella header "Pods-DrawScape-umbrella.h"
+
+  export *
+  module * { export * }
+}

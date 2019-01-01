@@ -1,0 +1,20 @@
+PODS:
+  - ColorSlider (4.3)
+  - LBTAComponents (1.0.2)
+
+DEPENDENCIES:
+  - ColorSlider (~> 4.3)
+  - LBTAComponents
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - ColorSlider
+    - LBTAComponents
+
+SPEC CHECKSUMS:
+  ColorSlider: 83fb6f174a13d7235ef100d8d5fee1f71adf2182
+  LBTAComponents: c4c8863e0ef6715e378300db148b96a09df656f7
+
+PODFILE CHECKSUM: bdad8f5151b4c0de716f51ca733aee5dd07d16e7
+
+COCOAPODS: 1.5.3
