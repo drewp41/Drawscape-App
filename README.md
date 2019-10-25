@@ -1,4 +1,4 @@
-# Drawscape-App
+# Drawscape
 iOS app I created using Swift and ARKit.
 This app allows users to virtually paint onto nearby walls using a variety of color palettes and brush types.
 
